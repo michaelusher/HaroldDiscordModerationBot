@@ -1,4 +1,4 @@
-# HaroldDiscordBotAI
+# Harold Discord Bot
 
 HaroldBot is a Discord bot that you can add to your server. It handles AI-powered chat, timed polls, and automatic moderation — all from simple commands.
 
